@@ -4,4 +4,3 @@
 - Funcionalidades principales:Inicio y registro de sesión, información sobre el deportivo Tepalcates, ubicación y informacion sobre otros deportivo.
 - Integrantes del equipo:Jesús Abraham Caballero Sánchez, Vania Amilet Miranda Rodriguez, Joel Zavaleta Perez, Santiago Vega Gonzales, Alex Isai Hernandez Altamirano, Karla Beatriz Palma Mondragon.
 - Tegnologias que podrían utilizarse:Computadora y dispositivos moviles.
-bbbbbbb
